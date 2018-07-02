@@ -8,7 +8,7 @@
 [Bootstrap - Class based docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 - Not strictly a react library, but rather uses a common stylesheet and you just add special classes defined in the docs to your code
 - Can also be used with plain HTML
-- When using React apps, referencing the bootstrap JS code including Jquery is highly discouraged because it doesn't play nice with React and will likely introduce strange bugs to your app
+- When using React apps, referencing the bootstrap JS code including Jquery is highly discouraged because it doesn't play nice with React and will likely introduce strange bugs into your app
 
 ### React-Boostrap
 [React-Bootstrap Docs](https://react-bootstrap.github.io/getting-started/introduction)
